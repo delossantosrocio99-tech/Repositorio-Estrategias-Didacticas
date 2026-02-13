@@ -1,2 +1,12 @@
-# Repositorio-Estrategias-Didacticas
-Repositorio digital de estrategias didácticas innovadoras – Juan Becerra Villa
+Repositorio-Estrategias-Didacticas/
+│
+├── index.md
+├── estrategias.md
+├── conclusion.md
+├── _config.yml
+├── README.md
+└── imagenes/
+    ├── abp.jpg
+    ├── colaborativo.jpg
+    ├── debate.jpg
+    └── ...
